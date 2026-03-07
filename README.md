@@ -1,6 +1,4 @@
-# abalone-regression
-Abalone Regression Project
-
+# Abalone Regression Project
 Goal:
 Predict the number of rings of abalones using machine learning.
 
